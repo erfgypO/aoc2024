@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	aoc24.Run("D3P2")
+	aoc24.Run("D4P2")
 }
